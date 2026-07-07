@@ -1,5 +1,6 @@
 {
-  "pin": "https://rakib-pin-api.onrender.com",
+  "pin": "https://rakib-pin-api1.onrender.com",
+  "pinvid": "https://rakib-pinvid-api1.onrender.com",
   "sing": "https://rakib-scloud-api1.onrender.com",
   "prompt": "https://rakib-prompt-api1.onrender.com",
   "igv": "https://rakib-igv-api.onrender1.com",
