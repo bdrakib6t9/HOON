@@ -1,15 +1,15 @@
 {
-  "pin": "https://rakib-pin-api0.onrender.com",
-  "pinvid": "https://rakib-pinvdo-api0.onrender.com",
-  "sing": "https://rakib-scloud-api0.onrender.com",
-  "prompt": "https://rakib-prompt-api0.onrender.com",
-  "igv": "https://rakib-igv-api0.onrender.com",
-  "4k": "https://rakib-4k-api0.onrender.com",
-  "lyrics": "https://rakib-lyrics-api0.onrender.com",
-  "prayer": "https://rakib-prayer-time0.onrender.com",
-  "tik": "https://rakib-tik-api0.onrender.com",
-  "yt": "https://rakib-yt-api0.onrender.com",
-  "gfx": "https://rakib-gfx-api0.onrender.com",
-  "islamic": "https://rakib-islamic-api0.onrender.com",
-  "ytv": "https://rakib-ytv-api0.onrender.com"
+  "pin": "https://rakib-pin-api1.onrender.com",
+  "pinvid": "https://rakib-pinvdo-api1.onrender.com",
+  "sing": "https://rakib-scloud-api1.onrender.com",
+  "prompt": "https://rakib-prompt-api1.onrender.com",
+  "igv": "https://rakib-igv-api1.onrender.com",
+  "4k": "https://rakib-4k-api1.onrender.com",
+  "lyrics": "https://rakib-lyrics-api1.onrender.com",
+  "prayer": "https://rakib-prayer-time1.onrender.com",
+  "tik": "https://rakib-tik-api1.onrender.com",
+  "yt": "https://rakib-yt-api1.onrender.com",
+  "gfx": "https://rakib-gfx-api1.onrender.com",
+  "islamic": "https://rakib-islamic-api1.onrender.com",
+  "ytv": "https://rakib-ytv-api1.onrender.com"
 }
