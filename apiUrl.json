@@ -1,6 +1,6 @@
 {
-  "bot": "https://hoon-tessa-bot.onrender.com",
-  "bot": "https://tessa-insta-bot.onrender.com", 
+  "fbbot": "https://hoon-tessa-bot.onrender.com",
+  "igbot": "https://tessa-insta-bot.onrender.com", 
   "pin": "https://rakib-pin-api6.onrender.com",
   "pinvid": "https://rakib-pinvdo-api6.onrender.com",
   "sing": "https://rakib-scloud-api6.onrender.com",
